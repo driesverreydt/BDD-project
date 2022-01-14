@@ -1,4 +1,4 @@
-package com.switchfully.bddproject;
+package com.switchfully.bddproject.user;
 
 import org.springframework.stereotype.Repository;
 

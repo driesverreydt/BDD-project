@@ -1,4 +1,4 @@
-package com.switchfully.bddproject;
+package com.switchfully.bddproject.user;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
